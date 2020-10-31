@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "878390359053",
+    "firebase_url": "https://kitchen-safe.firebaseio.com",
+    "project_id": "kitchen-safe",
+    "storage_bucket": "kitchen-safe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878390359053:android:dd50f2c51efb010f305144",
+        "android_client_info": {
+          "package_name": "com.rafakat.kitchen_safe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878390359053-4tc0bdnkl1in5rhs51bb9bb0hl83flsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqaj9dP7HrMM1Dg7Ug074Osl5W3GyGDg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878390359053-4tc0bdnkl1in5rhs51bb9bb0hl83flsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
